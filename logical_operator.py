@@ -8,3 +8,8 @@ elif (age >= 4 and donation >= 25000) and not is_home_reachable_distance:
     print("need a bus")
 else:
     print("not eligible")
+
+
+# not
+# and
+# or

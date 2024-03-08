@@ -10,4 +10,4 @@ name_of_the_person = "Saleel Ahamed C"
 print(name_of_the_person)
 
 cow_gives_us_milk = True
-print(cow_gives_us_milk)
+print(cow_gives_us_milk + "cow gives us milk")

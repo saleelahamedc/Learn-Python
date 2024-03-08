@@ -11,3 +11,5 @@
 - Place which we can store anything & access from anywhere
 2. String
 - Any text comes inside (") quotes
+- escape sequences are which can be prefixed by backslash(/)
+- Eg:- /n (for new line), // (for one back slash), /" (for quotes)

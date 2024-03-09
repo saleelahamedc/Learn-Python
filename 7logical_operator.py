@@ -13,3 +13,5 @@ else:
 # not
 # and
 # or
+
+# logical operator is called as short circuit

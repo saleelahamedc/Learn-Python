@@ -10,7 +10,7 @@ else:
     print("good weather")
 
 
-age = 25
+age = 30
 if age > 25:
     print("not eligible")
 else:

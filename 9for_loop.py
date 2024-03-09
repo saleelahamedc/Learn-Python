@@ -18,6 +18,8 @@ for x in range(3):
 
 # iterable
 # range functions returns range object which is iterable
-shopping_cart = ["shirt", "jeans"]
+shopping_cart = ["shirt", "jeans", "shoe", "belt"]
 for item in shopping_cart:
-    print(item)
+    if item == "shoe":
+        print(item)
+        break

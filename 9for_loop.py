@@ -23,3 +23,10 @@ for item in shopping_cart:
     if item == "shoe":
         print(item)
         break
+
+
+# nested loop
+
+for saleel in range(5):
+    for fazal in range(5):
+        print(f"({saleel} - {fazal})")

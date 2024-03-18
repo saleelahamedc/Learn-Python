@@ -1,5 +1,3 @@
-price_of_kallumakkaya = 20
-
 price_of_kallumakkaya = 30
 print(price_of_kallumakkaya)
 

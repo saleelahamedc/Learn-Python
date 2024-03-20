@@ -28,9 +28,24 @@
 
 
 # 4th chapter excercise
-fizzbuzz
+# fizzbuzz
 
-we have to create a function that can check if it is divisible by 3 & 5
-if the number is divisible by 3 there should be a message that shows fizz
+# we have to create a function that can check if it is divisible by 3 & 5
+# if the number is divisible by 3 there should be a message that shows fizz
+# if the number is divisible by 5 there should be a message that shows buzz
+# if the number is divisible by 3 & 5 there should be a message that shows fizzbuzz
+# else the number is not divisible by both 3 & 5. the same input should be shown
 
 
+def fizz_buzz(input):
+    if input % 3 == 0 and input % 5 == 0:
+        print("fizzbuzz")
+    elif input % 3 == 0:
+        print("fizz")
+    elif input % 5 == 0:
+        print("buzz")
+    else:
+        print(input)
+
+
+fizz_buzz(7)

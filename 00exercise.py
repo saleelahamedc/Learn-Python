@@ -37,15 +37,20 @@
 # else the number is not divisible by both 3 & 5. the same input should be shown
 
 
-def fizz_buzz(input):
-    if input % 3 == 0 and input % 5 == 0:
-        print("fizzbuzz")
-    elif input % 3 == 0:
-        print("fizz")
-    elif input % 5 == 0:
-        print("buzz")
-    else:
-        print(input)
+# def fizz_buzz(input):
+#     if input % 3 == 0 and input % 5 == 0:
+#         print("fizzbuzz")
+#     elif input % 3 == 0:
+#         print("fizz")
+#     elif input % 5 == 0:
+#         print("buzz")
+#     else:
+#         print(input)
 
 
-fizz_buzz(7)
+# fizz_buzz(7)
+
+
+items = [
+
+]

@@ -26,5 +26,3 @@ print(multiply(10, 20, 30))
 letters = ["a", "b"],
 
 letters = [(0, "a"), (1, "b")]
-
-index, char = letter

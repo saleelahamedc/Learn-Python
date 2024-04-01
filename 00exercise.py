@@ -49,8 +49,3 @@
 
 
 # fizz_buzz(7)
-
-
-items = [
-
-]

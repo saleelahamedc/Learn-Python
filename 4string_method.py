@@ -1,4 +1,4 @@
-course = "      Bachelor of commerce"
+course = "Bachelor of commerce"
 print(course)
 print(course.upper())
 print(course.lower())
